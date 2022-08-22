@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-22T07:46:33.946Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.77" etag="C-DiJu6VH5kMZiT_i0vd" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-22T07:49:27.819Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.77" etag="Bq5DHUwhFmq7LhqEkWKw" version="20.2.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1942" dy="973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,13 +13,13 @@
         <mxCell id="P83vOfGh1bkkBBBwiSUF-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P83vOfGh1bkkBBBwiSUF-1" target="P83vOfGh1bkkBBBwiSUF-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P83vOfGh1bkkBBBwiSUF-1" value="区域覆盖率货主估计" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="P83vOfGh1bkkBBBwiSUF-1" value="区域平台货主覆盖率估计" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="102" y="361" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P83vOfGh1bkkBBBwiSUF-87" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P83vOfGh1bkkBBBwiSUF-2" target="P83vOfGh1bkkBBBwiSUF-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P83vOfGh1bkkBBBwiSUF-2" value="区域平均发货量估计" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="P83vOfGh1bkkBBBwiSUF-2" value="区域平均潜在发货量估计" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="102" y="538" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P83vOfGh1bkkBBBwiSUF-5" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
