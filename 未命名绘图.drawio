@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-22T07:27:58.674Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.77" etag="k1aENHtNTw1tV44abIYT" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-22T07:29:19.642Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.77" etag="VIviUF2LKvnjfDnkcFSM" version="20.2.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1749" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2760" dy="1382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -95,7 +95,7 @@
         <mxCell id="P83vOfGh1bkkBBBwiSUF-70" value="区域货主平均发货" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="459" y="540.5" width="171" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="P83vOfGh1bkkBBBwiSUF-73" value="区域发货量估计" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="P83vOfGh1bkkBBBwiSUF-73" value="区域货主BD潜力估计" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="102" y="675" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P83vOfGh1bkkBBBwiSUF-74" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
